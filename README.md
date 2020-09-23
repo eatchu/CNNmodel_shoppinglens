@@ -1,5 +1,6 @@
 # CNNmodel_shoppinglens
 
+## Overview
 
-[link](https://github.com/eatchu/CNNmodel_shoppinglens/blob/master/Python_CNNmodel_shoppinglens.pdf)
-
+  네이버나 구글의 대형 포털 사이트의 이미지 분류 모델을 만들어 쇼핑렌즈 기능을 구현하고 향후 기대효과와 이러한 기술을 접목해 다양한 분야에 활용해보고자함
+  
